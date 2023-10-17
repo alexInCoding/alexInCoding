@@ -7,7 +7,6 @@
 - 🤓 Eu estudo na Alura e no segundo ano do Ensino Médio
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexInCode&show_icons=true&theme=dracula)](https://github.com/alexInCode/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexInCode&layout=compact&theme=dracula)
 
   ##
 
