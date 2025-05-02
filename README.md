@@ -1,10 +1,11 @@
 ### Olá, eu sou o Alex Gomes 👋
 
 
-- 🌱 Eu estou aprendendo sobre React e Front-End
+- 🌱 Eu estou na Unicamp, o curso de Engenharia da Computação
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Jogo volei, desenho, estudo muito, faço caminhada e namoro❤️
-- 🤓 Eu estudo na Alura e no segundo ano do Ensino Médio
+- ⚡ Fun fact: mestro rpg, faço corrida e leio
+- 🤓 Eu estudei na Alura
+
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexInCode&show_icons=true&theme=dracula)](https://github.com/alexInCode/github-readme-stats)
 
